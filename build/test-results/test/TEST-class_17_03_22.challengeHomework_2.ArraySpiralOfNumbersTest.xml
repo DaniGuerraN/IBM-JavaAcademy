@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="class_17_03_22.challengeHomework_2.ArraySpiralOfNumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-19T01:17:36" hostname="LAPTOP-JGU0UPAL" time="0.02">
+  <properties/>
+  <testcase name="spiralOfNumbers()" classname="class_17_03_22.challengeHomework_2.ArraySpiralOfNumbersTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
