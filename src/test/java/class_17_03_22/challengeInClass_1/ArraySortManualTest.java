@@ -1,15 +1,8 @@
 package class_17_03_22.challengeInClass_1;
 
-import class_17_03_22.challengeInClass_2.ArraySortCompareTo;
-import class_17_03_22.challengeInClass_2.Item;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.ValueSource;
-
-import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class ArraySortManualTest {
 

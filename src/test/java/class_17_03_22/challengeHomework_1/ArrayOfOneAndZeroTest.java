@@ -3,7 +3,6 @@ package class_17_03_22.challengeHomework_1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
 
 public class ArrayOfOneAndZeroTest {
 

@@ -1,7 +1,5 @@
 package class_17_03_22.challengeHomework_2;
 
-import java.util.Arrays;
-
 public class ArraySpiralOfNumbers {
 
 
